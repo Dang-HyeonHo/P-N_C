@@ -1,1 +1,1 @@
-# P-N_C
+P&N 동아리 - C Breakers
